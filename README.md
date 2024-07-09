@@ -1,1 +1,4 @@
-# edX--ML-with-Python-
+Simple Linear Regression
+Multiple Linear Regression
+Polynomial Regression
+Non-linear Regression
